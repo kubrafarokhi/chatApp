@@ -1,2 +1,2 @@
 # chatApp
-A simple chat App with sockets
+A simple chat App with sockets created
